@@ -1,3 +1,9 @@
+# To run the application:
+
+Make sure you have Docker and Docker Compose installed on your system.
+Navigate to the project directory in your terminal.
+Run docker-compose up --build to build and start the containers.
+
 # Assumptions made:
 
 1. The database is empty when the application starts.
